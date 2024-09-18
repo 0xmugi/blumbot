@@ -1,8 +1,8 @@
-# 🎮 Blum-BOT
+#  blumbot
 
 Welcome to GameBot, your automated assistant for managing and optimizing your experience on the Blum platform!
 
-## 🌟 Features
+##  Features
 
 -  Automatic farming and balance claiming
 -  Task completion automation
