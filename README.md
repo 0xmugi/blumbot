@@ -11,7 +11,7 @@ Welcome to GameBot, your automated assistant for managing and optimizing your ex
 -  Automated game playing and reward collection
 -  Support multiple accounts
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ node main.js
 
 Follow the prompts to start the automation process.
 
-## 📝 Configuration
+##  Configuration
 
 - Edit the `data.txt` file to manage multiple accounts.
 - Adjust task completion and game playing strategies in the `main.js` file.
